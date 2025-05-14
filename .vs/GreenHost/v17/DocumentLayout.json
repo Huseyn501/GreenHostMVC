@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|c:\\users\\ii novbe\\source\\repos\\greenhost\\greenhost\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|solutionrelative:greenhost\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|c:\\users\\ii novbe\\source\\repos\\greenhost\\greenhost\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|solutionrelative:greenhost\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|c:\\users\\ii novbe\\source\\repos\\greenhost\\greenhost\\areas\\admin\\controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|solutionrelative:greenhost\\areas\\admin\\controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|c:\\users\\ii novbe\\source\\repos\\greenhost\\greenhost\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|solutionrelative:greenhost\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|c:\\users\\ii novbe\\source\\repos\\greenhost\\greenhost\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|solutionrelative:greenhost\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|c:\\users\\ii novbe\\source\\repos\\greenhost\\greenhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|solutionrelative:greenhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|c:\\users\\ii novbe\\source\\repos\\greenhost\\greenhost\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{160BDF18-ADF2-4D2D-BB42-BF4430DCFB54}|GreenHost\\GreenHost.csproj|solutionrelative:greenhost\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1006,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Program.cs",
+              "RelativeDocumentMoniker": "GreenHost\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Program.cs",
+              "RelativeToolTip": "GreenHost\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:21:43.341Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GreenHost\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "GreenHost\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:21:22.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "GreenHost\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "GreenHost\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:15:00.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamMembersController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Areas\\Admin\\Controllers\\TeamMembersController.cs",
+              "RelativeDocumentMoniker": "GreenHost\\Areas\\Admin\\Controllers\\TeamMembersController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Areas\\Admin\\Controllers\\TeamMembersController.cs",
+              "RelativeToolTip": "GreenHost\\Areas\\Admin\\Controllers\\TeamMembersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:14:37.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GreenHost\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GreenHost\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:48:53.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GreenHost\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GreenHost\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T07:45:00.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GreenHost\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GreenHost\\GreenHost\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "GreenHost\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T07:40:14.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
