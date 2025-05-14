@@ -10,6 +10,7 @@ namespace GreenHost.Controllers
     public class AccountController : Controller
     {
         AppDbContext _context;
+
         private readonly UserManager<AppUser> userManager;
         private readonly SignInManager<AppUser> signInManager;
         private readonly RoleManager<IdentityRole> roleManager;
