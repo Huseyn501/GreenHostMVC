@@ -1,0 +1,24 @@
+﻿@using GreenHost.Models
+@using GreenHost.ViewModels
+@model TeamMemberVm
+<div class="container">
+    <h1>Update Team Member</h1>
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" class="form-control" placeholder="Yaz Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Position">Position</label>
+            <input asp-for="Position" class="form-control" placeholder="Yaz Position">
+            <span asp-validation-for="Position" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ImgFile">Image</label>
+            <input asp-for="ImgFile" class="form-control" placeholder="Bas Sekil">
+            <span asp-validation-for="ImgFile" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
